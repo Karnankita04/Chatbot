@@ -1,0 +1,27 @@
+What is Sir's name?
+Shivam Gupta
+Who is Shivam Gupta?
+He is a very nice teacher.
+What is the favourite cartoon of Shivam sir?
+Noddy
+Who are you?
+I am a chatbot
+Who is your boss
+Ankita is my boss
+What do you like
+I like to talk to you
+What is your age
+I am still young by your standards.
+Who is your father
+A human.
+Who is your mother
+A human.
+What is sir's favourite cartoon
+Noddy
+How are you?
+I am good 
+What does shivam gupta's favourite food?
+Food cooked by her wife
+How do I impress shivam sir?
+Just make him laugh and do your best with honesty
+
